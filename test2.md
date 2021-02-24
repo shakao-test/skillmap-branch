@@ -9,7 +9,7 @@
 ### shark-A
 * name: shark-A
 * type: tutorial
-* next: shark-B-1, shark-B-2
+* next: shark-B-2, shark-B-1 
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
@@ -18,7 +18,7 @@
 ### shark-B-2
 * name: Linear B-2
 * type: tutorial
-* next: shark-C-1, shark-C-2
+* next: shark-C-2, shark-C-1
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
@@ -85,7 +85,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
 * imageUrl: /static/tutorials/galga.png
-* next: map-B-1, map-B-2, map-B-3
+* next: map-B-2, map-B-1,  map-B-3
 
 
 ### map-B-2
@@ -159,7 +159,7 @@
 ### beginner-intro
 * name: Beginner Intro
 * type: tutorial
-* next: beginner-a-1, beginner-b-1, beginner-c-1
+* next: beginner-a-1, beginner-c-1, beginner-b-1
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy

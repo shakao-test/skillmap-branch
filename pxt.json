@@ -10,7 +10,8 @@
         "assets.json",
         "test.md",
         "test2.md",
-        "test3.md"
+        "test3.md",
+        "test4.md"
     ],
     "testFiles": [
         "test.ts"

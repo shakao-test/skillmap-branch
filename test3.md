@@ -89,7 +89,6 @@
 ### shark-E-2
 * name: Linear E
 * type: tutorial
-* next: shark-F
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy

@@ -57,6 +57,7 @@
 ### shark-D-1
 * name: Linear D-1
 * type: tutorial
+* next: shark-F
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
@@ -64,6 +65,7 @@
 ### shark-D-2
 * name: Linear D-2
 * type: tutorial
+* next: shark-F
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
@@ -79,12 +81,21 @@
 ### shark-E-1
 * name: Linear E
 * type: tutorial
+* next: shark-F
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
 
 ### shark-E-2
 * name: Linear E
+* type: tutorial
+* next: shark-F
+* description: Create a main character that shoots some projectiles
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* tags: easy
+
+### shark-F
+* name: Linear F
 * type: tutorial
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1

@@ -25,7 +25,7 @@
 ### shark-B-2
 * name: Linear B-2
 * type: tutorial
-* next: shark-C-2
+* next: shark-D
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy

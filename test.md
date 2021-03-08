@@ -1,6 +1,11 @@
 # branching
 * name: Branching Skill Map
 * description: Various branching skill map layouts
+* backgroundurl: https://raw.githubusercontent.com/riknoll/skillmap-branch/master/images/shark-attack-bg.png
+* primarycolor: #ff93c4
+* secondarycolor: #87f2ff
+* tertiarycolor: #5c406c
+* strokecolor: #5c406c
 
 ## shark
 * name: Shark Splash
@@ -31,12 +36,10 @@
 * tags: easy
 
 ### shark-C-1
-* name: Linear C-1
-* type: tutorial
+* kind: reward
+* type: certificate
+* url: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
 * next: shark-D-1, shark-D-2
-* description: Create a main character that shoots some projectiles
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* tags: easy
 
 ### shark-C-2
 * name: Linear C-2
@@ -61,12 +64,9 @@
 * tags: easy
 
 ### shark-E
-* name: Linear E
-* type: tutorial
-* description: Create a main character that shoots some projectiles
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* tags: easy
-
+* kind: completion
+* type: certificate
+* url: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
 ## nonlinear
 * name: Nonlinear

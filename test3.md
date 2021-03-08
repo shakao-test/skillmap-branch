@@ -18,7 +18,7 @@
 ### shark-B-1
 * name: Linear B-1
 * type: tutorial
-* next: shark-C-1, shark-C-2
+* next: shark-C-0, shark-C-1, shark-C-2
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
@@ -30,6 +30,10 @@
 * description: Create a main character that shoots some projectiles
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
+
+### shark-C-0
+* name: BLANK LAYOUT NODE
+* type: layout
 
 ### shark-C-1
 * name: Linear C-1
